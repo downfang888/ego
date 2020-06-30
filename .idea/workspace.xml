@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36742117-1e57-4b20-b0ed-f08bbe066744" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1aUQnDyP2lQij0N7enCbokLIHNP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goland\workspace\ego" />
+      <recent name="D:\goland\workspace\ego\src\main" />
+      <recent name="D:\goland\workspace\ego\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\goland\workspace\ego" />
+      <recent name="D:\goland\workspace\ego\static\js\kindeditor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ego/">
+    <configuration name="go build ego/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ego" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ego" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ego" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test ego" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="ego" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build ego/" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Test.go test ego" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ego/" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.go test ego" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="go_test_ego - 2018.07.17 at 15h 56m 29s.xml">
+      <configuration name="go test ego" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="216" key="FileChooserDialogImpl" timestamp="1586873371901">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="723" y="216" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586873371901" />
+    <state width="1340" height="156" key="GridCell.Tab.0.bottom" timestamp="1586873449380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="156" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586873449380" />
+    <state width="1340" height="156" key="GridCell.Tab.0.center" timestamp="1586873449380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="156" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586873449380" />
+    <state width="1340" height="156" key="GridCell.Tab.0.left" timestamp="1586873449380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="156" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586873449380" />
+    <state width="1340" height="156" key="GridCell.Tab.0.right" timestamp="1586873449380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="156" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586873449380" />
+    <state x="501" y="89" key="SettingsEditor" timestamp="1586788455760">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="89" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586788455760" />
+  </component>
+</project>
